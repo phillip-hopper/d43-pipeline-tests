@@ -1,0 +1,6 @@
+boto3
+mock
+requests
+
+git+git://github.com/unfoldingWord-dev/tx-shared-tools.git@feature/PhilDebug#egg=tx-shared-tools
+git+git://github.com/unfoldingWord-dev/tx-webhook-client.git@feature/AddInit#egg=tx-webhook-client
